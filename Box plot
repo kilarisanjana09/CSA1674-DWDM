@@ -1,0 +1,6 @@
+names<-c("Sanju","Anshu","Gupta")
+age<-c(23,24,35)
+marks<-c(89,88,87)
+df<-data.frame(names,age,marks)
+hist(df $age)
+boxplot(df$age)
